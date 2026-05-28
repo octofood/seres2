@@ -1,0 +1,143 @@
+{
+  "brand": "SERES SIX",
+  "core_idea": "Six formulas. Six colors. Six archetypes. One ritual.",
+  "source_image": "a_large_composite_promotional_product_photoset_b.png",
+  "images": [
+    {
+      "filename": "01_hero_six_can_pack.png",
+      "title": "Hero Six-Can Pack",
+      "subtitle": "Six-pack slim cans in a premium tray",
+      "crop": [
+        0,
+        0,
+        462,
+        358
+      ],
+      "caption": "The clearest retail hero for the color-coded formula system: six slim cans presented as one premium ritual set, with each formula visually differentiated through color, number, English name, Chinese character, and guardian artwork.",
+      "recommendation": "Use this as the lead DTC and specialty retail SKU when the objective is trial, gifting, and fast brand comprehension.",
+      "format": "Retail / DTC hero"
+    },
+    {
+      "filename": "02_premium_single_can_lineup.png",
+      "title": "Premium Single-Can Lineup",
+      "subtitle": "Bold color-coded team image",
+      "crop": [
+        466,
+        0,
+        1070,
+        358
+      ],
+      "caption": "The strongest brand-recognition image: six individual cans stand side by side, making the formula architecture instantly readable while preserving a dramatic, premium wellness feel.",
+      "recommendation": "Use across landing-page hero sections, launch ads, retail sell sheets, and investor materials.",
+      "format": "Brand system hero"
+    },
+    {
+      "filename": "03_powder_refill_pouches.png",
+      "title": "Powder Refill Pouches",
+      "subtitle": "Sustainable, collectible refill architecture",
+      "crop": [
+        1074,
+        0,
+        1536,
+        358
+      ],
+      "caption": "The pouch system translates the six formulas into a lower-waste, repeat-purchase format while keeping the dramatic guardian-panel identity intact.",
+      "recommendation": "Position as the eco-friendly subscription product after the customer has learned the system through cans or elixir bottles.",
+      "format": "Refill / subscription"
+    },
+    {
+      "filename": "04_reusable_powder_tin_refill_system.png",
+      "title": "Reusable Powder Tin + Refill System",
+      "subtitle": "Refillable tin, pouch, scoop, powder",
+      "crop": [
+        0,
+        362,
+        462,
+        650
+      ],
+      "caption": "A reusable canister anchors the system as a long-term ritual rather than a disposable novelty. Formula panels around the tin create a premium shelf object with collectible energy.",
+      "recommendation": "Make this the best repeat-purchase economics play: tin as the durable starter item, pouches as the recurring replenishment.",
+      "format": "Reusable ritual system"
+    },
+    {
+      "filename": "05_tincture_dropper_set.png",
+      "title": "Tincture Dropper Set",
+      "subtitle": "Premium botanical apothecary collection",
+      "crop": [
+        466,
+        362,
+        1070,
+        650
+      ],
+      "caption": "Amber glass bottles and dropper caps make the system feel more serious and apothecary-led, while the color-coded labels keep the heroic formula architecture recognizable.",
+      "recommendation": "Use as a premium extension for customers who want concentrated botanical support and a more adult ritual format.",
+      "format": "Apothecary extension"
+    },
+    {
+      "filename": "06_liquid_elixir_bottle_set.png",
+      "title": "Liquid Elixir Bottle Set",
+      "subtitle": "Six small daily elixir bottles in a tray",
+      "crop": [
+        1074,
+        362,
+        1536,
+        650
+      ],
+      "caption": "Small amber elixir bottles create a daily-course product that is more direct and giftable than tinctures, with character cards reinforcing the six-archetype ritual.",
+      "recommendation": "A strong premium starter kit candidate: easier to explain than tinctures and more giftable than bulk powder.",
+      "format": "Daily course / giftable kit"
+    },
+    {
+      "filename": "07_soft_chews_bulk_jar.png",
+      "title": "Soft Chews / Gummies Bulk Jar",
+      "subtitle": "Lower-waste mass wellness extension",
+      "crop": [
+        0,
+        670,
+        462,
+        882
+      ],
+      "caption": "The amber jar and weekly tray bring the system into a more familiar supplement format while the guardian color strip prevents the product from becoming generic wellness packaging.",
+      "recommendation": "Use later as a mass wellness extension once the SERES SIX ritual language is established.",
+      "format": "Mass wellness extension"
+    },
+    {
+      "filename": "08_full_product_family_hero_shot.png",
+      "title": "Full Product Family Hero Shot",
+      "subtitle": "Complete brand world: cans, tins, pouches, bottles, chews",
+      "crop": [
+        466,
+        660,
+        1070,
+        882
+      ],
+      "caption": "This frame demonstrates how the visual system scales across formats without losing cohesion: six colors, six guardians, one ritual language.",
+      "recommendation": "Use for brand-launch presentations, category strategy, investor decks, and packaging alignment meetings.",
+      "format": "Launch campaign image"
+    },
+    {
+      "filename": "09_retail_shelf_dtc_kit_shot.png",
+      "title": "Retail Shelf / DTC Kit Shot",
+      "subtitle": "Commercially believable launch bundle",
+      "crop": [
+        1074,
+        660,
+        1536,
+        882
+      ],
+      "caption": "A cleaner retail and direct-to-consumer kit view shows how the system can live in a premium wellness environment without feeling childish or overly clinical.",
+      "recommendation": "Use for pitch materials focused on channel strategy, merchandising, and online kit configuration.",
+      "format": "Retail / DTC merchandising"
+    },
+    {
+      "filename": "10_close_up_detail_image.png",
+      "title": "Close-Up Detail Image",
+      "subtitle": "Foil, embossing, character art, metallic surfaces",
+      "caption": "The detail study shows the tactile premium cues needed to move the concept beyond flat character packaging: metallic ink, embossed logo treatment, black stock, brush accents, and reusable-tin details.",
+      "recommendation": "Use this as a production briefing image for print vendors, packaging designers, and prototype teams.",
+      "format": "Print-detail reference"
+    }
+  ],
+  "contact_sheet": "SERES_SIX_annotated_image_contact_sheet.png",
+  "original_generated_contact_sheet": "00_original_generated_contact_sheet.png"
+}
